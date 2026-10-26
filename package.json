@@ -1,0 +1,13 @@
+{
+  "name": "sakina-ai-backend",
+  "version": "1.0.0",
+  "description": "SAKINA AI backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "@google/generative-ai": "^0.24.1"
+  }
+}
